@@ -1,0 +1,6127 @@
+export const MOVIES_DATA = [
+  {
+    "id": 119031,
+    "name": "Mehribon devqomat",
+    "original_name": "Mehribon devqomat",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119031/pb_photo_2026-10-03_10-15-53.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119031/ps_photo_2026-10-03_10-15-53.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119031/pb_photo_2026-10-03_10-15-53.jpeg",
+    "year": 2016,
+    "rating": "12+",
+    "duration": 117,
+    "duration_str": "1 soat 57 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya, Hindiston",
+    "genres": "Oilaviy, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.2",
+    "imdb_rating": "6.3",
+    "quality": "4K Ultra HD",
+    "description": "Mehribon devqomat filmi 2016-yilda AQSh, Buyuk Britaniya, Hindistonda suratga olingan. Ushbu film Oilaviy, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122888,
+    "name": "Tatildagi orzular",
+    "original_name": "Tatildagi orzular",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122888/pb_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B09.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122888/ps_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B09.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122888/pb_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B09.jpeg",
+    "year": 2014,
+    "rating": "18+",
+    "duration": 95,
+    "duration_str": "1 soat 35 daqiqa",
+    "countries": "Buyuk Britaniya",
+    "genres": "Komediya, Drama, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "6.9",
+    "quality": "Full HD",
+    "description": "Tatildagi orzular filmi 2014-yilda Buyuk Britaniyada suratga olingan. Ushbu film Komediya, Drama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122887,
+    "name": "Jo",
+    "original_name": "Jo",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B08_DrFHJWw.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B08_XSq0Dc2.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B08_DrFHJWw.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 118,
+    "duration_str": "1 soat 58 daqiqa",
+    "countries": "AQSh",
+    "genres": "Drama, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Jo filmi 2013-yilda AQShda suratga olingan. Ushbu film Drama, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122885,
+    "name": "Ip Man-4",
+    "original_name": "Ip Man-4",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122885/pb_m6BO52htIDBqsHpoHSN6dEdx61B.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122885/ps_m6BO52htIDBqsHpoHSN6dEdx61B.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122885/pb_m6BO52htIDBqsHpoHSN6dEdx61B.jpg",
+    "year": 2019,
+    "rating": "18+",
+    "duration": 107,
+    "duration_str": "1 soat 47 daqiqa",
+    "countries": "Gonkong, Xitoy",
+    "genres": "Biografiya, Drama, Jangari, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Drama",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "7.0",
+    "quality": "4K Ultra HD",
+    "description": "Ip Man-4 filmi 2019-yilda Gonkong, Xitoyda suratga olingan. Ushbu film Biografiya, Drama, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122884,
+    "name": "Venetsiyadagi arvohlar",
+    "original_name": "Venetsiyadagi arvohlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122884/pb_photo_2026-11-19_15-07-35.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122884/ps_photo_2026-11-19_15-07-35.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122884/pb_photo_2026-11-19_15-07-35.jpeg",
+    "year": 2023,
+    "rating": "16+",
+    "duration": 103,
+    "duration_str": "1 soat 43 daqiqa",
+    "countries": "AQSh",
+    "genres": "Detektiv, Kriminal, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Detektiv",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.5",
+    "quality": "Full HD",
+    "description": "Venetsiyadagi arvohlar filmi 2023-yilda AQShda suratga olingan. Ushbu film Detektiv, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122880,
+    "name": "Robin Gud",
+    "original_name": "Robin Gud",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122880/pb_thumbs.dfs.ivi84.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122880/ps_thumbs.dfs.ivi84.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122880/pb_thumbs.dfs.ivi84.jpeg",
+    "year": 2010,
+    "rating": "18+",
+    "duration": 140,
+    "duration_str": "2 soat 20 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya",
+    "genres": "Drama, Jangari, Tarix, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Jangari",
+      "Tarix"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "6.6",
+    "quality": "Full HD",
+    "description": "Robin Gud filmi 2010-yilda AQSh, Buyuk Britaniyada suratga olingan. Ushbu film Drama, Jangari, Tarix janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122879,
+    "name": "Sirli ko'zlar",
+    "original_name": "Sirli ko'zlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi81.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi81.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi81.jpeg",
+    "year": 2009,
+    "rating": "18+",
+    "duration": 129,
+    "duration_str": "2 soat 9 daqiqa",
+    "countries": "Ispaniya, Argentina",
+    "genres": "Triller, Drama, Detektiv, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Detektiv",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "8.2",
+    "quality": "4K Ultra HD",
+    "description": "Sirli ko'zlar filmi 2009-yilda Ispaniya, Argentinada suratga olingan. Ushbu film Triller, Drama, Detektiv, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122878,
+    "name": "Moslashuv",
+    "original_name": "Moslashuv",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122878/pb_thumbs.dfs.ivi86.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122878/ps_thumbs.dfs.ivi86.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122878/pb_thumbs.dfs.ivi86.jpeg",
+    "year": 2002,
+    "rating": "18+",
+    "duration": 115,
+    "duration_str": "1 soat 55 daqiqa",
+    "countries": "AQSh",
+    "genres": "Komediya, Drama, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama"
+    ],
+    "kinopoisk_rating": "7.0",
+    "imdb_rating": "7.6",
+    "quality": "Full HD",
+    "description": "Moslashuv filmi 2002-yilda AQShda suratga olingan. Ushbu film Komediya, Drama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122876,
+    "name": "Qahramonning Qaytishi",
+    "original_name": "Qahramonning Qaytishi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122876/pb_thumbs.dfs.ivi87.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122876/ps_thumbs.dfs.ivi87.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122876/pb_thumbs.dfs.ivi87.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 107,
+    "duration_str": "1 soat 47 daqiqa",
+    "countries": "AQSh, Janubiy Koreya",
+    "genres": "Vestern, Triller, Jangari, O'zbekcha",
+    "genre_list": [
+      "Vestern",
+      "Triller",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Qahramonning Qaytishi filmi 2013-yilda AQSh, Janubiy Koreyada suratga olingan. Ushbu film Vestern, Triller, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122875,
+    "name": "Raqobat",
+    "original_name": "Raqobat",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122875/pb_thumbs.dfs.ivi88.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122875/ps_thumbs.dfs.ivi88.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122875/pb_thumbs.dfs.ivi88.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 107,
+    "duration_str": "1 soat 47 daqiqa",
+    "countries": "Shvetsiya, Daniya, Chexiya, Finlyandiya",
+    "genres": "Biografiya, Sport, Drama, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Sport",
+      "Drama"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "6.9",
+    "quality": "4K Ultra HD",
+    "description": "Raqobat filmi 2017-yilda Shvetsiya, Daniya, Chexiya, Finlyandiyada suratga olingan. Ushbu film Biografiya, Sport, Drama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122868,
+    "name": "Dandi laqabli timsoh",
+    "original_name": "Dandi laqabli timsoh",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi80.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi80.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi80.jpeg",
+    "year": 1986,
+    "rating": "18+",
+    "duration": 97,
+    "duration_str": "1 soat 37 daqiqa",
+    "countries": "AQSh, Avstraliya",
+    "genres": "Komediya, Sarguzasht, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Dandi laqabli timsoh filmi 1986-yilda AQSh, Avstraliyada suratga olingan. Ushbu film Komediya, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122867,
+    "name": "Xatarli Oyin",
+    "original_name": "Xatarli Oyin",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122867/pb_thumbs.dfs.ivi89.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122867/ps_thumbs.dfs.ivi89.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122867/pb_thumbs.dfs.ivi89.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 132,
+    "duration_str": "2 soat 12 daqiqa",
+    "countries": "AQSh, Fransiya",
+    "genres": "Drama, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "7.5",
+    "quality": "Full HD",
+    "description": "Xatarli Oyin filmi 2016-yilda AQSh, Fransiyada suratga olingan. Ushbu film Drama, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122866,
+    "name": "Bell va Sebastyan",
+    "original_name": "Bell va Sebastyan",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi79.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi79.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi79.jpeg",
+    "year": 2013,
+    "rating": "12+",
+    "duration": 104,
+    "duration_str": "1 soat 44 daqiqa",
+    "countries": "Fransiya",
+    "genres": "Oilaviy, Drama, Sarguzasht, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Drama",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "6.9",
+    "quality": "4K Ultra HD",
+    "description": "Bell va Sebastyan filmi 2013-yilda Fransiyada suratga olingan. Ushbu film Oilaviy, Drama, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122865,
+    "name": "Raju Jentelmen",
+    "original_name": "Raju Jentelmen",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122865/pb_Raju_Jentelmen_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122865/ps_Raju_Jentelmen_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122865/pb_Raju_Jentelmen_762x1200.jpeg",
+    "year": 1992,
+    "rating": "18+",
+    "duration": 155,
+    "duration_str": "2 soat 35 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Myuzikl, Komediya, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Komediya",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Raju Jentelmen filmi 1992-yilda Hindistonda suratga olingan. Ushbu film Myuzikl, Komediya, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122864,
+    "name": "Umidvor Ruh",
+    "original_name": "Umidvor Ruh",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122864/pb_Umidvor_Ruh_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122864/ps_Umidvor_Ruh_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122864/pb_Umidvor_Ruh_762x1200.jpeg",
+    "year": 1992,
+    "rating": "12+",
+    "duration": 152,
+    "duration_str": "2 soat 32 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Komediya, Drama, Melodrama, Fentezi, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama",
+      "Fentezi"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "6.5",
+    "quality": "Full HD",
+    "description": "Umidvor Ruh filmi 1992-yilda Hindistonda suratga olingan. Ushbu film Komediya, Drama, Melodrama, Fentezi janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122863,
+    "name": "Xulosa",
+    "original_name": "Xulosa",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122863/pb_Xulosa_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122863/ps_Xulosa_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122863/pb_Xulosa_762x1200.jpeg",
+    "year": 1994,
+    "rating": "18+",
+    "duration": 170,
+    "duration_str": "2 soat 50 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Melodrama, O'zbekcha",
+    "genre_list": [
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Xulosa filmi 1994-yilda Hindistonda suratga olingan. Ushbu film Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122860,
+    "name": "Xudo Biladi",
+    "original_name": "Xudo Biladi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122860/pb_Gemini_Generated_Image_i3g3e8i3g3e8i3g3_1.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122860/ps_Gemini_Generated_Image_i3g3e8i3g3e8i3g3_1.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122860/pb_Gemini_Generated_Image_i3g3e8i3g3e8i3g3_1.jpeg",
+    "year": 1995,
+    "rating": "18+",
+    "duration": 162,
+    "duration_str": "2 soat 42 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Drama, Jangari, Melodrama, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Jangari",
+      "Melodrama",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "5.4",
+    "quality": "Full HD",
+    "description": "Xudo Biladi filmi 1995-yilda Hindistonda suratga olingan. Ushbu film Drama, Jangari, Melodrama, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122859,
+    "name": "Karan va Arjun",
+    "original_name": "Karan va Arjun",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122859/pb_Karan_va_Arjun_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122859/ps_Karan_va_Arjun_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122859/pb_Karan_va_Arjun_762x1200.jpeg",
+    "year": 1995,
+    "rating": "16+",
+    "duration": 175,
+    "duration_str": "2 soat 55 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Drama, Jangari, Melodrama, Fentezi, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Jangari",
+      "Melodrama",
+      "Fentezi"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Karan va Arjun filmi 1995-yilda Hindistonda suratga olingan. Ushbu film Drama, Jangari, Melodrama, Fentezi janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122857,
+    "name": "Intiqom",
+    "original_name": "Intiqom",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122857/pb_Intiqom_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122857/ps_Intiqom_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122857/pb_Intiqom_762x1200.jpeg",
+    "year": 1996,
+    "rating": "18+",
+    "duration": 146,
+    "duration_str": "2 soat 26 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Drama, Jangari, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "4.4",
+    "quality": "4K Ultra HD",
+    "description": "Intiqom filmi 1996-yilda Hindistonda suratga olingan. Ushbu film Drama, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122856,
+    "name": "Qiyofadosh",
+    "original_name": "Qiyofadosh",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122856/pb_Qiyofadosh_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122856/ps_Qiyofadosh_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122856/pb_Qiyofadosh_762x1200.jpeg",
+    "year": 1998,
+    "rating": "16+",
+    "duration": 164,
+    "duration_str": "2 soat 44 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Triller, Komediya, Jangari, Melodrama, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Komediya",
+      "Jangari",
+      "Melodrama",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "5.6",
+    "quality": "Full HD",
+    "description": "Qiyofadosh filmi 1998-yilda Hindistonda suratga olingan. Ushbu film Triller, Komediya, Jangari, Melodrama, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122854,
+    "name": "Qalban Hindistonlikmiz",
+    "original_name": "Qalban Hindistonlikmiz",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122854/pb_Qalban_Hindistonlikmiz_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122854/ps_Qalban_Hindistonlikmiz_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122854/pb_Qalban_Hindistonlikmiz_762x1200.jpeg",
+    "year": 2000,
+    "rating": "12+",
+    "duration": 158,
+    "duration_str": "2 soat 38 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Komediya, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "6.2",
+    "quality": "Full HD",
+    "description": "Qalban Hindistonlikmiz filmi 2000-yilda Hindistonda suratga olingan. Ushbu film Komediya, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122853,
+    "name": "Qora jodu 1",
+    "original_name": "Qora jodu 1",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122853/pb_Qora_jodu_.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122853/ps_Qora_jodu_.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122853/pb_Qora_jodu_.jpeg",
+    "year": 2002,
+    "rating": "12+",
+    "duration": 151,
+    "duration_str": "2 soat 31 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Detektiv, Qo'rqinchli, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Detektiv",
+      "Qo'rqinchli"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Qora jodu 1 filmi 2002-yilda Hindistonda suratga olingan. Ushbu film Triller, Detektiv, Qo'rqinchli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122852,
+    "name": "Yagonam o'zing",
+    "original_name": "Yagonam o'zing",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122852/pb_Yagonam_ozing_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122852/ps_Yagonam_ozing_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122852/pb_Yagonam_ozing_762x1200.jpeg",
+    "year": 2002,
+    "rating": "16+",
+    "duration": 174,
+    "duration_str": "2 soat 54 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Komediya, Drama, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "5.4",
+    "quality": "Full HD",
+    "description": "Yagonam o'zing filmi 2002-yilda Hindistonda suratga olingan. Ushbu film Komediya, Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122851,
+    "name": "O'tkinchi dunyo",
+    "original_name": "O'tkinchi dunyo",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122851/pb_Otkinchi_dunyo_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122851/ps_Otkinchi_dunyo_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122851/pb_Otkinchi_dunyo_762x1200.jpeg",
+    "year": 2003,
+    "rating": "12+",
+    "duration": 186,
+    "duration_str": "3 soat 6 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Komediya, Drama, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "8.3",
+    "imdb_rating": "7.9",
+    "quality": "Full HD",
+    "description": "O'tkinchi dunyo filmi 2003-yilda Hindistonda suratga olingan. Ushbu film Komediya, Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122850,
+    "name": "Yo'l Yo'lakay",
+    "original_name": "Yo'l Yo'lakay",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122850/pb_Yol_Yolakay_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122850/ps_Yol_Yolakay_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122850/pb_Yol_Yolakay_762x1200.jpeg",
+    "year": 2003,
+    "rating": "16+",
+    "duration": 167,
+    "duration_str": "2 soat 47 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Drama, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "6.5",
+    "quality": "4K Ultra HD",
+    "description": "Yo'l Yo'lakay filmi 2003-yilda Hindistonda suratga olingan. Ushbu film Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122849,
+    "name": "Vatanga Qaytish",
+    "original_name": "Vatanga Qaytish",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122849/pb_Vatanga_Qaytish_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122849/ps_Vatanga_Qaytish_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122849/pb_Vatanga_Qaytish_762x1200.jpeg",
+    "year": 2004,
+    "rating": "12+",
+    "duration": 210,
+    "duration_str": "3 soat 30 daqiqa",
+    "countries": "AQSh, Hindiston",
+    "genres": "Myuzikl, Drama, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Drama"
+    ],
+    "kinopoisk_rating": "7.7",
+    "imdb_rating": "8.2",
+    "quality": "Full HD",
+    "description": "Vatanga Qaytish filmi 2004-yilda AQSh, Hindistonda suratga olingan. Ushbu film Myuzikl, Drama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122848,
+    "name": "Vir va Zara",
+    "original_name": "Vir va Zara",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122848/pb_Vir_va_Zara_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122848/ps_Vir_va_Zara_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122848/pb_Vir_va_Zara_762x1200.jpeg",
+    "year": 2004,
+    "rating": "12+",
+    "duration": 192,
+    "duration_str": "3 soat 12 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Myuzikl, Oilaviy, Drama, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Oilaviy",
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "8.4",
+    "imdb_rating": "7.8",
+    "quality": "Full HD",
+    "description": "Vir va Zara filmi 2004-yilda Hindistonda suratga olingan. Ushbu film Myuzikl, Oilaviy, Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122847,
+    "name": "Men Bormanku",
+    "original_name": "Men Bormanku",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122847/pb_Men_Bormanku_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122847/ps_Men_Bormanku_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122847/pb_Men_Bormanku_762x1200.jpeg",
+    "year": 2004,
+    "rating": "16+",
+    "duration": 182,
+    "duration_str": "3 soat 2 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Myuzikl, Komediya, Drama, Jangari, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Komediya",
+      "Drama",
+      "Jangari",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "7.1",
+    "quality": "4K Ultra HD",
+    "description": "Men Bormanku filmi 2004-yilda Hindistonda suratga olingan. Ushbu film Myuzikl, Komediya, Drama, Jangari, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122846,
+    "name": "Jumboq",
+    "original_name": "Jumboq",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122846/pb_Jumboq_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122846/ps_Jumboq_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122846/pb_Jumboq_762x1200.jpeg",
+    "year": 2005,
+    "rating": "16+",
+    "duration": 140,
+    "duration_str": "2 soat 20 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Myuzikl, Komediya, Drama, Melodrama, Fentezi, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Komediya",
+      "Drama",
+      "Melodrama",
+      "Fentezi"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "6.4",
+    "quality": "Full HD",
+    "description": "Jumboq filmi 2005-yilda Hindistonda suratga olingan. Ushbu film Myuzikl, Komediya, Drama, Melodrama, Fentezi janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122844,
+    "name": "Eng jozibali va latofatli ayol",
+    "original_name": "Eng jozibali va latofatli ayol",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122844/pb_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B07.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122844/ps_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B07.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122844/pb_%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B07.jpeg",
+    "year": 1985,
+    "rating": "18+",
+    "duration": 81,
+    "duration_str": "1 soat 21 daqiqa",
+    "countries": "SSSR",
+    "genres": "Komediya, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "8.3",
+    "imdb_rating": "7.4",
+    "quality": "Full HD",
+    "description": "Eng jozibali va latofatli ayol filmi 1985-yilda SSSRda suratga olingan. Ushbu film Komediya, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122843,
+    "name": "Ip Man-3",
+    "original_name": "Ip Man-3",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122843/pb_thumbs.dfs.ivi-Photoroom111.png",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122843/ps_thumbs.dfs.ivi-Photoroom111.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122843/pb_thumbs.dfs.ivi-Photoroom111.png",
+    "year": 2015,
+    "rating": "18+",
+    "duration": 105,
+    "duration_str": "1 soat 45 daqiqa",
+    "countries": "Gonkong, Xitoy",
+    "genres": "Biografiya, Drama, Jangari, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Drama",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "7.0",
+    "quality": "4K Ultra HD",
+    "description": "Ip Man-3 filmi 2015-yilda Gonkong, Xitoyda suratga olingan. Ushbu film Biografiya, Drama, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122839,
+    "name": "Sirli oroldagi sarguzashtlar",
+    "original_name": "Sirli oroldagi sarguzashtlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122839/pb_thumbs.dfs.ivi74-Photoroom11.png",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122839/ps_thumbs.dfs.ivi74-Photoroom11.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122839/pb_thumbs.dfs.ivi74-Photoroom11.png",
+    "year": 2012,
+    "rating": "18+",
+    "duration": 94,
+    "duration_str": "1 soat 34 daqiqa",
+    "countries": "AQSh",
+    "genres": "Oilaviy, Komediya, Jangari, Fentezi, Fantastika, Sarguzasht, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Komediya",
+      "Jangari",
+      "Fentezi",
+      "Fantastika",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "5.7",
+    "quality": "Full HD",
+    "description": "Sirli oroldagi sarguzashtlar filmi 2012-yilda AQShda suratga olingan. Ushbu film Oilaviy, Komediya, Jangari, Fentezi, Fantastika, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122837,
+    "name": "Nildagi qotillik",
+    "original_name": "Nildagi qotillik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122837/pb_thumbs.dfs.ivi75.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122837/ps_thumbs.dfs.ivi75.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122837/pb_thumbs.dfs.ivi75.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 127,
+    "duration_str": "2 soat 7 daqiqa",
+    "countries": "AQSh",
+    "genres": "Drama, Detektiv, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Detektiv",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "6.5",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Nildagi qotillik filmi 2020-yilda AQShda suratga olingan. Ushbu film Drama, Detektiv, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122834,
+    "name": "Taqdir o‘yini",
+    "original_name": "Taqdir o‘yini",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122834/pb_thumbs.dfs.ivi-Photoroom12.png",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122834/ps_thumbs.dfs.ivi-Photoroom12.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122834/pb_thumbs.dfs.ivi-Photoroom12.png",
+    "year": 1995,
+    "rating": "18+",
+    "duration": 183,
+    "duration_str": "3 soat 3 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Drama, Jangari, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Jangari",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "6.4",
+    "quality": "4K Ultra HD",
+    "description": "Taqdir o‘yini filmi 1995-yilda Hindistonda suratga olingan. Ushbu film Triller, Drama, Jangari, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122828,
+    "name": "Sharpalar saroyi",
+    "original_name": "Sharpalar saroyi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122828/pb_thumbs.dfs.ivi-Photoroom11.png",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122828/ps_thumbs.dfs.ivi-Photoroom11.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122828/pb_thumbs.dfs.ivi-Photoroom11.png",
+    "year": 2023,
+    "rating": "18+",
+    "duration": 123,
+    "duration_str": "2 soat 3 daqiqa",
+    "countries": "AQSh, Kanada",
+    "genres": "Oilaviy, Komediya, Fentezi, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Komediya",
+      "Fentezi"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "6.0",
+    "quality": "Full HD",
+    "description": "Sharpalar saroyi filmi 2023-yilda AQSh, Kanadada suratga olingan. Ushbu film Oilaviy, Komediya, Fentezi janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 119109,
+    "name": "So'nggi samuray",
+    "original_name": "So'nggi samuray",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119109/pb_Vb3u9.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119109/ps_Vb3u9.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119109/pb_Vb3u9.jpeg",
+    "year": 2003,
+    "rating": "18+",
+    "duration": 154,
+    "duration_str": "2 soat 34 daqiqa",
+    "countries": "AQSh, Yaponiya, Yangi Zelandiya",
+    "genres": "Drama, Jangari, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "7.8",
+    "quality": "Full HD",
+    "description": "So'nggi samuray filmi 2003-yilda AQSh, Yaponiya, Yangi Zelandiyada suratga olingan. Ushbu film Drama, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 117275,
+    "name": "Sharqiy ekspresdagi qotillik",
+    "original_name": "Sharqiy ekspresdagi qotillik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/117275/pb_z081DKN7z7lEeRJKw7U11oLe8wK.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/117275/ps_z081DKN7z7lEeRJKw7U11oLe8wK.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/117275/pb_z081DKN7z7lEeRJKw7U11oLe8wK.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 114,
+    "duration_str": "1 soat 54 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya, Malta",
+    "genres": "Drama, Detektiv, Kriminal, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Detektiv",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "6.5",
+    "quality": "4K Ultra HD",
+    "description": "Sharqiy ekspresdagi qotillik filmi 2017-yilda AQSh, Buyuk Britaniya, Maltada suratga olingan. Ushbu film Drama, Detektiv, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 118494,
+    "name": "Ip Man-2",
+    "original_name": "Ip Man-2",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118494/pb_photo_2026-09-21_09-57-22.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118494/ps_photo_2026-09-21_09-57-22.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118494/pb_photo_2026-09-21_09-57-22.jpeg",
+    "year": 2010,
+    "rating": "18+",
+    "duration": 108,
+    "duration_str": "1 soat 48 daqiqa",
+    "countries": "Gonkong, Xitoy",
+    "genres": "Biografiya, Drama, Jangari, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Drama",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "7.7",
+    "imdb_rating": "7.5",
+    "quality": "Full HD",
+    "description": "Ip Man-2 filmi 2010-yilda Gonkong, Xitoyda suratga olingan. Ushbu film Biografiya, Drama, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 118951,
+    "name": "Aralash-quralash",
+    "original_name": "Aralash-quralash",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118951/pb_019bac6a-5851-75ad-be9d-46b91194f73d_oz.png",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118951/ps_019bac6a-5851-75ad-be9d-46b91194f73d_oz.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118951/pb_019bac6a-5851-75ad-be9d-46b91194f73d_oz.png",
+    "year": 2014,
+    "rating": "18+",
+    "duration": 117,
+    "duration_str": "1 soat 57 daqiqa",
+    "countries": "AQSh",
+    "genres": "Oilaviy, Komediya, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.8",
+    "imdb_rating": "6.5",
+    "quality": "Full HD",
+    "description": "Aralash-quralash filmi 2014-yilda AQShda suratga olingan. Ushbu film Oilaviy, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 119451,
+    "name": "Muzlik davri",
+    "original_name": "Muzlik davri",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119451/pb_photo_2026-10-12_11-20-06.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119451/ps_photo_2026-10-12_11-20-06.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119451/pb_photo_2026-10-12_11-20-06.jpeg",
+    "year": 2002,
+    "rating": "3+",
+    "duration": 76,
+    "duration_str": "1 soat 16 daqiqa",
+    "countries": "AQSh",
+    "genres": "Oilaviy, Komediya, Sarguzasht, O'zbek tiliga tarjima qilingan, Bolalarga, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Komediya",
+      "Sarguzasht",
+      "Bolalarga"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "7.5",
+    "quality": "4K Ultra HD",
+    "description": "Muzlik davri filmi 2002-yilda AQShda suratga olingan. Ushbu film Oilaviy, Komediya, Sarguzasht, Bolalarga janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122816,
+    "name": "Trollar saltanatidagi sarguzashtlar",
+    "original_name": "Trollar saltanatidagi sarguzashtlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122816/pb_019d04ce-5cee-772c-bd3c-6a3daa2435fd_oz.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122816/ps_019d04ce-5cee-772c-bd3c-6a3daa2435fd_oz.jpg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122816/pb_019d04ce-5cee-772c-bd3c-6a3daa2435fd_oz.jpg",
+    "year": 2017,
+    "rating": "6+",
+    "duration": 104,
+    "duration_str": "1 soat 44 daqiqa",
+    "countries": "Chexiya, Irlandiya, Norvegiya",
+    "genres": "Oilaviy, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "6.2",
+    "quality": "Full HD",
+    "description": "Trollar saltanatidagi sarguzashtlar filmi 2017-yilda Chexiya, Irlandiya, Norvegiyada suratga olingan. Ushbu film Oilaviy, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122810,
+    "name": "Om shanti om",
+    "original_name": "Om shanti om",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122810/pb_Om_shanti_om__762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122810/ps_Om_shanti_om__762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122810/pb_Om_shanti_om__762x1200.jpeg",
+    "year": 2007,
+    "rating": "18+",
+    "duration": 162,
+    "duration_str": "2 soat 42 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Myuzikl, Triller, Drama, Jangari, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Triller",
+      "Drama",
+      "Jangari",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Om shanti om filmi 2007-yilda Hindistonda suratga olingan. Ushbu film Myuzikl, Triller, Drama, Jangari, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122809,
+    "name": "Tangri yaratgan juftlik",
+    "original_name": "Tangri yaratgan juftlik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122809/pb_Tangri_yaratgan_juftlik__762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122809/ps_Tangri_yaratgan_juftlik__762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122809/pb_Tangri_yaratgan_juftlik__762x1200.jpeg",
+    "year": 2008,
+    "rating": "12+",
+    "duration": 167,
+    "duration_str": "2 soat 47 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Komediya, Drama, Melodrama, Musiqa, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama",
+      "Musiqa"
+    ],
+    "kinopoisk_rating": "8.2",
+    "imdb_rating": "7.2",
+    "quality": "4K Ultra HD",
+    "description": "Tangri yaratgan juftlik filmi 2008-yilda Hindistonda suratga olingan. Ushbu film Komediya, Drama, Melodrama, Musiqa janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122808,
+    "name": "Qora jodu 2",
+    "original_name": "Qora jodu 2",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122808/pb_Qora_jodu_2.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122808/ps_Qora_jodu_2.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122808/pb_Qora_jodu_2.jpeg",
+    "year": 2009,
+    "rating": "18+",
+    "duration": 151,
+    "duration_str": "2 soat 31 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Detektiv, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Detektiv",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "5.7",
+    "quality": "Full HD",
+    "description": "Qora jodu 2 filmi 2009-yilda Hindistonda suratga olingan. Ushbu film Triller, Detektiv, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122806,
+    "name": "Qora jodu 3",
+    "original_name": "Qora jodu 3",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122806/pb_Qora_jodu_3.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122806/ps_Qora_jodu_3.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122806/pb_Qora_jodu_3.jpeg",
+    "year": 2012,
+    "rating": "18+",
+    "duration": 139,
+    "duration_str": "2 soat 19 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Melodrama, Qo'rqinchli, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Melodrama",
+      "Qo'rqinchli"
+    ],
+    "kinopoisk_rating": "6.5",
+    "imdb_rating": "4.2",
+    "quality": "Full HD",
+    "description": "Qora jodu 3 filmi 2012-yilda Hindistonda suratga olingan. Ushbu film Triller, Melodrama, Qo'rqinchli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 116361,
+    "name": "Bukri toychoq",
+    "original_name": "Bukri toychoq",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/116361/pb_ScreenShot_20260817163624.png",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/116361/ps_ScreenShot_20260817163624.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/116361/pb_ScreenShot_20260817163624.png",
+    "year": 2021,
+    "rating": "6+",
+    "duration": 111,
+    "duration_str": "1 soat 51 daqiqa",
+    "countries": "Rossiya",
+    "genres": "Oilaviy, Komediya, Fentezi, Sarguzasht, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Komediya",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "5.7",
+    "quality": "4K Ultra HD",
+    "description": "Bukri toychoq filmi 2021-yilda Rossiyada suratga olingan. Ushbu film Oilaviy, Komediya, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122801,
+    "name": "Yangi yilingiz bilan",
+    "original_name": "Yangi yilingiz bilan",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Yangi_yilingiz_bilan_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Yangi_yilingiz_bilan_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Yangi_yilingiz_bilan_762x1200.jpeg",
+    "year": 2014,
+    "rating": "18+",
+    "duration": 180,
+    "duration_str": "3 soat 0 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Komediya, Drama, Jangari, Kriminal, Musiqa, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Jangari",
+      "Kriminal",
+      "Musiqa"
+    ],
+    "kinopoisk_rating": "7.7",
+    "imdb_rating": "5.0",
+    "quality": "Full HD",
+    "description": "Yangi yilingiz bilan filmi 2014-yilda Hindistonda suratga olingan. Ushbu film Komediya, Drama, Jangari, Kriminal, Musiqa janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122797,
+    "name": "Muxlis",
+    "original_name": "Muxlis",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Muxlis_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Muxlis_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Muxlis_762x1200.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 138,
+    "duration_str": "2 soat 18 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Triller, Drama, Jangari, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Muxlis filmi 2016-yilda Hindistonda suratga olingan. Ushbu film Triller, Drama, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 118488,
+    "name": "Ip man",
+    "original_name": "Ip man",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118488/pb_tOwuafn5TaRuNfsZJGrGA6ppKt0.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118488/ps_tOwuafn5TaRuNfsZJGrGA6ppKt0.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118488/pb_tOwuafn5TaRuNfsZJGrGA6ppKt0.jpg",
+    "year": 2008,
+    "rating": "18+",
+    "duration": 106,
+    "duration_str": "1 soat 46 daqiqa",
+    "countries": "Gonkong, Xitoy",
+    "genres": "Biografiya, Drama, Jangari, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Drama",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "8.2",
+    "imdb_rating": "8.0",
+    "quality": "4K Ultra HD",
+    "description": "Ip man filmi 2008-yilda Gonkong, Xitoyda suratga olingan. Ushbu film Biografiya, Drama, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122795,
+    "name": "Ajoyib poyga",
+    "original_name": "Ajoyib poyga",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122795/pb_photo_2026-11-16_16-21-58.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122795/ps_photo_2026-11-16_16-21-58.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122795/pb_photo_2026-11-16_16-21-58.jpeg",
+    "year": 2005,
+    "rating": "12+",
+    "duration": 101,
+    "duration_str": "1 soat 41 daqiqa",
+    "countries": "AQSh",
+    "genres": "Sport, Oilaviy, Komediya, Melodrama, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Sport",
+      "Oilaviy",
+      "Komediya",
+      "Melodrama",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "4.9",
+    "quality": "Full HD",
+    "description": "Ajoyib poyga filmi 2005-yilda AQShda suratga olingan. Ushbu film Sport, Oilaviy, Komediya, Melodrama, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 90255,
+    "name": "Sinister",
+    "original_name": "Sinister",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/90255/pb_poster.webp",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/90255/ps_poster.webp",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/90255/pb_poster.webp",
+    "year": 2012,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya, Kanada",
+    "genres": "Qo'rqinchli, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Qo'rqinchli"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Sinister filmi 2012-yilda AQSh, Buyuk Britaniya, Kanadada suratga olingan. Ushbu film Qo'rqinchli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122794,
+    "name": "Afsungarning shogirdi",
+    "original_name": "Afsungarning shogirdi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122794/pb_afsungarning_shogirdi_poster.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122794/ps_afsungarning_shogirdi_poster.jpg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122794/pb_afsungarning_shogirdi_poster.jpg",
+    "year": 2010,
+    "rating": "12+",
+    "duration": 111,
+    "duration_str": "1 soat 51 daqiqa",
+    "countries": "AQSh",
+    "genres": "Oilaviy, Jangari, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Jangari",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "6.1",
+    "quality": "4K Ultra HD",
+    "description": "Afsungarning shogirdi filmi 2010-yilda AQShda suratga olingan. Ushbu film Oilaviy, Jangari, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122781,
+    "name": "Pinokkio",
+    "original_name": "Pinokkio",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122781/pb_pinokkio_poster.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122781/ps_pinokkio_poster.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122781/pb_pinokkio_poster.jpg",
+    "year": 2019,
+    "rating": "6+",
+    "duration": 125,
+    "duration_str": "2 soat 5 daqiqa",
+    "countries": "Frantsiya, Buyuk Britaniya, Italiya, Belgiya",
+    "genres": "Drama, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.8",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Pinokkio filmi 2019-yilda Frantsiya, Buyuk Britaniya, Italiya, Belgiyada suratga olingan. Ushbu film Drama, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122780,
+    "name": "Fors tili saboqlari",
+    "original_name": "Fors tili saboqlari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122780/pb_01a028e1-1175-7169-a7a8-dba193a27714_oz.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122780/ps_01a028e1-1175-7169-a7a8-dba193a27714_oz.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122780/pb_01a028e1-1175-7169-a7a8-dba193a27714_oz.jpg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 128,
+    "duration_str": "2 soat 8 daqiqa",
+    "countries": "Germaniya, Rossiya, Belarus",
+    "genres": "Harbiy, Drama, Tarix, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Harbiy",
+      "Drama",
+      "Tarix"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "7.4",
+    "quality": "Full HD",
+    "description": "Fors tili saboqlari filmi 2020-yilda Germaniya, Rossiya, Belarusda suratga olingan. Ushbu film Harbiy, Drama, Tarix janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 119526,
+    "name": "Meri Poppins qaytmoqda",
+    "original_name": "Meri Poppins qaytmoqda",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119526/pb_photo_2026-10-15_11-44-02.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119526/ps_photo_2026-10-15_11-44-02.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119526/pb_photo_2026-10-15_11-44-02.jpeg",
+    "year": 2018,
+    "rating": "6+",
+    "duration": 130,
+    "duration_str": "2 soat 10 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya, Hindiston, Avstraliya, Kanada, Daniya",
+    "genres": "Myuzikl, Filmlar, Xorijiy, Oilaviy, Komediya, Fentezi, Sarguzasht, Musiqa, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Xorijiy",
+      "Oilaviy",
+      "Komediya",
+      "Fentezi",
+      "Sarguzasht",
+      "Musiqa"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Meri Poppins qaytmoqda filmi 2018-yilda AQSh, Buyuk Britaniya, Hindiston, Avstraliya, Kanada, Daniyada suratga olingan. Ushbu film Myuzikl, Xorijiy, Oilaviy, Komediya, Fentezi, Sarguzasht, Musiqa janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 119721,
+    "name": "Kutilmagan taklif",
+    "original_name": "Kutilmagan taklif",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119721/pb_photo_2026-10-20_10-30-21.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119721/ps_photo_2026-10-20_10-30-21.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119721/pb_photo_2026-10-20_10-30-21.jpeg",
+    "year": 2009,
+    "rating": "18+",
+    "duration": 108,
+    "duration_str": "1 soat 48 daqiqa",
+    "countries": "AQSh",
+    "genres": "Komediya, Drama, Melodrama, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.7",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Kutilmagan taklif filmi 2009-yilda AQShda suratga olingan. Ushbu film Komediya, Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 119077,
+    "name": "Garfild-2",
+    "original_name": "Garfild-2",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119077/pb_photo_2026-10-07_10-45-40.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119077/ps_photo_2026-10-07_10-45-40.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119077/pb_photo_2026-10-07_10-45-40.jpeg",
+    "year": 2006,
+    "rating": "6+",
+    "duration": 82,
+    "duration_str": "1 soat 22 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya",
+    "genres": "Oilaviy, Komediya, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Komediya",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "5.0",
+    "quality": "Full HD",
+    "description": "Garfild-2 filmi 2006-yilda AQSh, Buyuk Britaniyada suratga olingan. Ushbu film Oilaviy, Komediya, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 119120,
+    "name": "Garri Potter va hikmatlar toshi",
+    "original_name": "Garri Potter va hikmatlar toshi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119120/pb_ArXiN.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119120/ps_ArXiN.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/119120/pb_ArXiN.jpeg",
+    "year": 2001,
+    "rating": "12+",
+    "duration": 152,
+    "duration_str": "2 soat 32 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya",
+    "genres": "Oilaviy, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Oilaviy",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "8.3",
+    "imdb_rating": "7.7",
+    "quality": "4K Ultra HD",
+    "description": "Garri Potter va hikmatlar toshi filmi 2001-yilda AQSh, Buyuk Britaniyada suratga olingan. Ushbu film Oilaviy, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122773,
+    "name": "Vijdon Amri",
+    "original_name": "Vijdon Amri",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122773/pb_photo_2026-11-15_11-39-22.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122773/ps_photo_2026-11-15_11-39-22.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122773/pb_photo_2026-11-15_11-39-22.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 139,
+    "duration_str": "2 soat 19 daqiqa",
+    "countries": "AQSh",
+    "genres": "Biografiya, Harbiy, Drama, Tarix, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Harbiy",
+      "Drama",
+      "Tarix"
+    ],
+    "kinopoisk_rating": "8.3",
+    "imdb_rating": "8.1",
+    "quality": "Full HD",
+    "description": "Vijdon Amri filmi 2016-yilda AQShda suratga olingan. Ushbu film Biografiya, Harbiy, Drama, Tarix janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122772,
+    "name": "Qor tozalovchi",
+    "original_name": "Qor tozalovchi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122772/pb_019cb3df-1068-75f7-a909-0a1a0b5af6e7_oz.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122772/ps_019cb3df-1068-75f7-a909-0a1a0b5af6e7_oz.jpg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122772/pb_019cb3df-1068-75f7-a909-0a1a0b5af6e7_oz.jpg",
+    "year": 2019,
+    "rating": "18+",
+    "duration": 119,
+    "duration_str": "1 soat 59 daqiqa",
+    "countries": "AQSh, Frantsiya, Buyuk Britaniya, Kanada, Xitoy, Norvegiya",
+    "genres": "Triller, Komediya, Drama, Jangari, Kriminal, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Komediya",
+      "Drama",
+      "Jangari",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "6.2",
+    "quality": "Full HD",
+    "description": "Qor tozalovchi filmi 2019-yilda AQSh, Frantsiya, Buyuk Britaniya, Kanada, Xitoy, Norvegiyada suratga olingan. Ushbu film Triller, Komediya, Drama, Jangari, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122770,
+    "name": "Dubayga yo‘l",
+    "original_name": "Dubayga yo‘l",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122770/pb_photo_2026-11-15_11-28-19.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122770/ps_photo_2026-11-15_11-28-19.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122770/pb_photo_2026-11-15_11-28-19.jpeg",
+    "year": 2023,
+    "rating": "18+",
+    "duration": 90,
+    "duration_str": "1 soat 30 daqiqa",
+    "countries": "Qozog'iston",
+    "genres": "Komediya, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "7.7",
+    "quality": "4K Ultra HD",
+    "description": "Dubayga yo‘l filmi 2023-yilda Qozog'istonda suratga olingan. Ushbu film Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122768,
+    "name": "Sirli qotillik",
+    "original_name": "Sirli qotillik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122768/pb_019ecf13-066a-7269-a321-ff98250cfba9_oz.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122768/ps_019ecf13-066a-7269-a321-ff98250cfba9_oz.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122768/pb_019ecf13-066a-7269-a321-ff98250cfba9_oz.jpg",
+    "year": 2019,
+    "rating": "16+",
+    "duration": 97,
+    "duration_str": "1 soat 37 daqiqa",
+    "countries": "AQSh, Italiya, Kanada",
+    "genres": "Komediya, Detektiv, Kriminal, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Detektiv",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "6.4",
+    "imdb_rating": "6.1",
+    "quality": "Full HD",
+    "description": "Sirli qotillik filmi 2019-yilda AQSh, Italiya, Kanadada suratga olingan. Ushbu film Komediya, Detektiv, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 118392,
+    "name": "Karib dengizi qaroqchilari-5",
+    "original_name": "Karib dengizi qaroqchilari-5",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118392/pb_vv.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118392/ps_vv.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118392/pb_vv.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 129,
+    "duration_str": "2 soat 9 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya, Avstraliya, Kanada",
+    "genres": "Komediya, Jangari, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Jangari",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.5",
+    "quality": "Full HD",
+    "description": "Karib dengizi qaroqchilari-5 filmi 2017-yilda AQSh, Buyuk Britaniya, Avstraliya, Kanadada suratga olingan. Ushbu film Komediya, Jangari, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122750,
+    "name": "Shoumen",
+    "original_name": "Shoumen",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122750/pb_shoumen_poster.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122750/ps_shoumen_poster.jpg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122750/pb_shoumen_poster.jpg",
+    "year": 2017,
+    "rating": "12+",
+    "duration": 105,
+    "duration_str": "1 soat 45 daqiqa",
+    "countries": "AQSh",
+    "genres": "Biografiya, Myuzikl, Filmlar, Oilaviy, Drama, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Myuzikl",
+      "Oilaviy",
+      "Drama"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "7.5",
+    "quality": "4K Ultra HD",
+    "description": "Shoumen filmi 2017-yilda AQShda suratga olingan. Ushbu film Biografiya, Myuzikl, Oilaviy, Drama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122747,
+    "name": "Dersu Uzala",
+    "original_name": "Dersu Uzala",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122747/pb_vCb3lLdTpSmcz7KmK41F38yEYfR.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122747/ps_vCb3lLdTpSmcz7KmK41F38yEYfR.jpg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122747/pb_vCb3lLdTpSmcz7KmK41F38yEYfR.jpg",
+    "year": 1975,
+    "rating": "18+",
+    "duration": 136,
+    "duration_str": "2 soat 16 daqiqa",
+    "countries": "Yaponiya, SSSR",
+    "genres": "Biografiya, Drama, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Biografiya",
+      "Drama",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "8.3",
+    "imdb_rating": "8.2",
+    "quality": "Full HD",
+    "description": "Dersu Uzala filmi 1975-yilda Yaponiya, SSSRda suratga olingan. Ushbu film Biografiya, Drama, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 118469,
+    "name": "Sug‘ur kuni",
+    "original_name": "Sug‘ur kuni",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118469/pb_photo_2026-11-13_15-54-40.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118469/ps_photo_2026-11-13_15-54-40.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/118469/pb_photo_2026-11-13_15-54-40.jpeg",
+    "year": 1993,
+    "rating": "18+",
+    "duration": 101,
+    "duration_str": "1 soat 41 daqiqa",
+    "countries": "AQSh",
+    "genres": "Komediya, Drama, Melodrama, Fentezi, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama",
+      "Fentezi"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "8.0",
+    "quality": "Full HD",
+    "description": "Sug‘ur kuni filmi 1993-yilda AQShda suratga olingan. Ushbu film Komediya, Drama, Melodrama, Fentezi janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122724,
+    "name": "Special 26",
+    "original_name": "Special 26",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi68_qL6AItE.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi68_VfVVEp6.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi68_qL6AItE.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 144,
+    "duration_str": "2 soat 24 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Drama, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "8.0",
+    "quality": "4K Ultra HD",
+    "description": "Special 26 filmi 2013-yilda Hindistonda suratga olingan. Ushbu film Triller, Drama, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122723,
+    "name": "Yengilmas",
+    "original_name": "Yengilmas",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi70_eFTBLhx.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi70_qLfOF4K.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi70_eFTBLhx.jpeg",
+    "year": 2019,
+    "rating": "18+",
+    "duration": 146,
+    "duration_str": "2 soat 26 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Drama, Jangari, Kriminal, Tarix, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Jangari",
+      "Kriminal",
+      "Tarix"
+    ],
+    "kinopoisk_rating": "8.2",
+    "imdb_rating": "7.2",
+    "quality": "Full HD",
+    "description": "Yengilmas filmi 2019-yilda Hindistonda suratga olingan. Ushbu film Triller, Drama, Jangari, Kriminal, Tarix janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122722,
+    "name": "Yolg'iz qolganda",
+    "original_name": "Yolg'iz qolganda",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi62_g5pbSKe.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi62_aKoLTOe.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi62_g5pbSKe.jpeg",
+    "year": 2001,
+    "rating": "18+",
+    "duration": 173,
+    "duration_str": "2 soat 53 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Drama, Jangari, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Jangari",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "5.5",
+    "quality": "Full HD",
+    "description": "Yolg'iz qolganda filmi 2001-yilda Hindistonda suratga olingan. Ushbu film Triller, Drama, Jangari, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 115128,
+    "name": "Odissey",
+    "original_name": "Odissey",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/115128/pb_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/115128/ps_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.png",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/115128/pb_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg",
+    "year": 2026,
+    "rating": "18+",
+    "duration": 172,
+    "duration_str": "2 soat 52 daqiqa",
+    "countries": "AQSh, Buyuk Britaniya",
+    "genres": "Jangari, Fentezi, Sarguzasht, O'zbek tiliga tarjima qilingan, Filmlar, O'zbekcha",
+    "genre_list": [
+      "Jangari",
+      "Fentezi",
+      "Sarguzasht"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "8.4",
+    "quality": "4K Ultra HD",
+    "description": "Odissey filmi 2026-yilda AQSh, Buyuk Britaniyada suratga olingan. Ushbu film Jangari, Fentezi, Sarguzasht janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122716,
+    "name": "Yashirin haqiqat",
+    "original_name": "Yashirin haqiqat",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi70_LBeZMxJ.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi70_1uDcdmF.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi70_LBeZMxJ.jpeg",
+    "year": 1997,
+    "rating": "18+",
+    "duration": 173,
+    "duration_str": "2 soat 53 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Detektiv, Jangari, Melodrama, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Detektiv",
+      "Jangari",
+      "Melodrama",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "7.3",
+    "quality": "Full HD",
+    "description": "Yashirin haqiqat filmi 1997-yilda Hindistonda suratga olingan. Ushbu film Triller, Detektiv, Jangari, Melodrama, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122715,
+    "name": "Pari",
+    "original_name": "Pari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Pari_.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Pari_.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Pari_.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 136,
+    "duration_str": "2 soat 16 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Triller, Melodrama, Qo'rqinchli, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Melodrama",
+      "Qo'rqinchli"
+    ],
+    "kinopoisk_rating": "5.7",
+    "imdb_rating": "6.6",
+    "quality": "Full HD",
+    "description": "Pari filmi 2018-yilda Hindistonda suratga olingan. Ushbu film Triller, Melodrama, Qo'rqinchli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122713,
+    "name": "Xayolparastlar",
+    "original_name": "Xayolparastlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi68.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi68.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi68.jpeg",
+    "year": 2014,
+    "rating": "18+",
+    "duration": 152,
+    "duration_str": "2 soat 32 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Myuzikl, Drama, Jangari, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Drama",
+      "Jangari",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.1",
+    "imdb_rating": "2.8",
+    "quality": "4K Ultra HD",
+    "description": "Xayolparastlar filmi 2014-yilda Hindistonda suratga olingan. Ushbu film Myuzikl, Drama, Jangari, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122711,
+    "name": "Uzulgan rishta",
+    "original_name": "Uzulgan rishta",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi67.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi67.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi67.jpeg",
+    "year": 1994,
+    "rating": "18+",
+    "duration": 141,
+    "duration_str": "2 soat 21 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Melodrama, O'zbekcha",
+    "genre_list": [
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "3.5",
+    "quality": "Full HD",
+    "description": "Uzulgan rishta filmi 1994-yilda Hindistonda suratga olingan. Ushbu film Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122709,
+    "name": "Tutqichbermas Prem",
+    "original_name": "Tutqichbermas Prem",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi65_FJmZL0A.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi65_XyJUt99.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi65_FJmZL0A.jpeg",
+    "year": 2015,
+    "rating": "18+",
+    "duration": 164,
+    "duration_str": "2 soat 44 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Myuzikl, Drama, Jangari, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Myuzikl",
+      "Drama",
+      "Jangari",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "4.4",
+    "quality": "Full HD",
+    "description": "Tutqichbermas Prem filmi 2015-yilda Hindistonda suratga olingan. Ushbu film Myuzikl, Drama, Jangari, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122708,
+    "name": "To'yga albatta keling",
+    "original_name": "To'yga albatta keling",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi63.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi63.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi63.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 137,
+    "duration_str": "2 soat 17 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Drama, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "6.5",
+    "imdb_rating": "7.5",
+    "quality": "4K Ultra HD",
+    "description": "To'yga albatta keling filmi 2017-yilda Hindistonda suratga olingan. Ushbu film Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122707,
+    "name": "Toki hayot ekanman",
+    "original_name": "Toki hayot ekanman",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi62.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi62.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi62.jpeg",
+    "year": 2012,
+    "rating": "18+",
+    "duration": 198,
+    "duration_str": "3 soat 18 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Drama, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Toki hayot ekanman filmi 2012-yilda Hindistonda suratga olingan. Ushbu film Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122706,
+    "name": "Tezlik 1",
+    "original_name": "Tezlik 1",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi61.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi61.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi61.jpeg",
+    "year": 2004,
+    "rating": "18+",
+    "duration": 129,
+    "duration_str": "2 soat 9 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Drama, Jangari, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Jangari",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "6.6",
+    "quality": "Full HD",
+    "description": "Tezlik 1 filmi 2004-yilda Hindistonda suratga olingan. Ushbu film Triller, Drama, Jangari, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122705,
+    "name": "Teri Baaton Mein Aisa Uljha Jiya",
+    "original_name": "Teri Baaton Mein Aisa Uljha Jiya",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi581.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi581.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi581.jpeg",
+    "year": 2024,
+    "rating": "18+",
+    "duration": 141,
+    "duration_str": "2 soat 21 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Komediya, Drama, Melodrama, Fantastika, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama",
+      "Fantastika"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.2",
+    "quality": "4K Ultra HD",
+    "description": "Teri Baaton Mein Aisa Uljha Jiya filmi 2024-yilda Hindistonda suratga olingan. Ushbu film Komediya, Drama, Melodrama, Fantastika janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122704,
+    "name": "Tergovchi",
+    "original_name": "Tergovchi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi60.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_thumbs.dfs.ivi60.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_thumbs.dfs.ivi60.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 151,
+    "duration_str": "2 soat 31 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Detektiv, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Detektiv",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "7.6",
+    "quality": "Full HD",
+    "description": "Tergovchi filmi 2017-yilda Hindistonda suratga olingan. Ushbu film Triller, Detektiv, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122702,
+    "name": "Isyonchi 2",
+    "original_name": "Isyonchi 2",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Isyonchi_2_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Isyonchi_2_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Isyonchi_2_762x1200.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 137,
+    "duration_str": "2 soat 17 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Jangari, O'zbekcha",
+    "genre_list": [
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.5",
+    "imdb_rating": "4.7",
+    "quality": "Full HD",
+    "description": "Isyonchi 2 filmi 2018-yilda Hindistonda suratga olingan. Ushbu film Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122700,
+    "name": "Nol",
+    "original_name": "Nol",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Nol_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Nol_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Nol_762x1200.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 164,
+    "duration_str": "2 soat 44 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Komediya, Drama, Melodrama, O'zbekcha",
+    "genre_list": [
+      "Komediya",
+      "Drama",
+      "Melodrama"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "5.2",
+    "quality": "4K Ultra HD",
+    "description": "Nol filmi 2018-yilda Hindistonda suratga olingan. Ushbu film Komediya, Drama, Melodrama janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122699,
+    "name": "Isyonchi 3",
+    "original_name": "Isyonchi 3",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122699/pb_Isyonchi_3_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122699/ps_Isyonchi_3_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122699/pb_Isyonchi_3_762x1200.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 143,
+    "duration_str": "2 soat 23 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Jangari, O'zbekcha",
+    "genre_list": [
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "2.3",
+    "quality": "Full HD",
+    "description": "Isyonchi 3 filmi 2020-yilda Hindistonda suratga olingan. Ushbu film Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122694,
+    "name": "Tanqidchilar Qotili",
+    "original_name": "Tanqidchilar Qotili",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Tanqidchilar_Qotili__762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Tanqidchilar_Qotili__762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Tanqidchilar_Qotili__762x1200.jpeg",
+    "year": 2022,
+    "rating": "18+",
+    "duration": 135,
+    "duration_str": "2 soat 15 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Drama, Detektiv, Melodrama, Kriminal, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Drama",
+      "Detektiv",
+      "Melodrama",
+      "Kriminal"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "7.5",
+    "quality": "Full HD",
+    "description": "Tanqidchilar Qotili filmi 2022-yilda Hindistonda suratga olingan. Ushbu film Triller, Drama, Detektiv, Melodrama, Kriminal janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122693,
+    "name": "Jodulangan qiz - Vash",
+    "original_name": "Jodulangan qiz - Vash",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Jodulangan_qiz_.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Jodulangan_qiz_.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Jodulangan_qiz_.jpeg",
+    "year": 2023,
+    "rating": "18+",
+    "duration": 117,
+    "duration_str": "1 soat 57 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Filmlar, Triller, Detektiv, Qo'rqinchli, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Detektiv",
+      "Qo'rqinchli"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "7.8",
+    "quality": "4K Ultra HD",
+    "description": "Jodulangan qiz - Vash filmi 2023-yilda Hindistonda suratga olingan. Ushbu film Triller, Detektiv, Qo'rqinchli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122692,
+    "name": "Pathan",
+    "original_name": "Pathan",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Pathan_762x1200.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/ps_Pathan_762x1200.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/new/pb_Pathan_762x1200.jpeg",
+    "year": 2023,
+    "rating": "18+",
+    "duration": 146,
+    "duration_str": "2 soat 26 daqiqa",
+    "countries": "Hindiston",
+    "genres": "Triller, Jangari, O'zbekcha",
+    "genre_list": [
+      "Triller",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "7.1",
+    "imdb_rating": "5.8",
+    "quality": "Full HD",
+    "description": "Pathan filmi 2023-yilda Hindistonda suratga olingan. Ushbu film Triller, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122678,
+    "name": "Eskobar. Ota uchun o'gil",
+    "original_name": "Eskobar. Ota uchun o'gil",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122678/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122678/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122678/pb_poster_big.jpeg",
+    "year": 2022,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Jinoiy, Biografiyalar, Hujjatli",
+    "genre_list": [
+      "Jinoiy",
+      "Biografiyalar",
+      "Hujjatli"
+    ],
+    "kinopoisk_rating": "7.5",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Eskobar. Ota uchun o'gil filmi 2022-yilda O'zbekistonda suratga olingan. Ushbu film Jinoiy, Biografiyalar, Hujjatli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122677,
+    "name": "30 lekin 17",
+    "original_name": "30 lekin 17",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122677/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122677/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122677/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Melodramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar",
+      "Melodramalar"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "7.8",
+    "quality": "4K Ultra HD",
+    "description": "30 lekin 17 filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Melodramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122675,
+    "name": "Taqiq",
+    "original_name": "Taqiq",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122675/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122675/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122675/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar"
+    ],
+    "kinopoisk_rating": "7.8",
+    "imdb_rating": "8.3",
+    "quality": "Full HD",
+    "description": "Taqiq filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122674,
+    "name": "K'orkam Yigitlar",
+    "original_name": "K'orkam Yigitlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122674/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122674/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122674/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, Dramalar, Melodramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Tarixiy",
+      "Dramalar",
+      "Melodramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "8.5",
+    "imdb_rating": "8.0",
+    "quality": "Full HD",
+    "description": "K'orkam Yigitlar filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Dramalar, Melodramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122673,
+    "name": "Shubhalar girdobida",
+    "original_name": "Shubhalar girdobida",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122673/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122673/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122673/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Dramalar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "8.4",
+    "quality": "4K Ultra HD",
+    "description": "Shubhalar girdobida filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122672,
+    "name": "K-2 Tansoqchi",
+    "original_name": "K-2 Tansoqchi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122672/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122672/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122672/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, O'zbekcha",
+    "genre_list": [
+      "Trillerlar"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "7.8",
+    "quality": "Full HD",
+    "description": "K-2 Tansoqchi filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122670,
+    "name": "Buzilgan hayotlar",
+    "original_name": "Buzilgan hayotlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122670/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122670/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122670/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Melodramalar, O'zbekcha",
+    "genre_list": [
+      "Melodramalar"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "5.9",
+    "quality": "Full HD",
+    "description": "Buzilgan hayotlar filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Melodramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122669,
+    "name": "Shafqatsiz shahar",
+    "original_name": "Shafqatsiz shahar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122669/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122669/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122669/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "7.9",
+    "quality": "4K Ultra HD",
+    "description": "Shafqatsiz shahar filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122668,
+    "name": "Dorian Grey",
+    "original_name": "Dorian Grey",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122668/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122668/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122668/pb_poster_big.jpeg",
+    "year": 2009,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "6.2",
+    "quality": "Full HD",
+    "description": "Dorian Grey filmi 2009-yilda O'zbekistonda suratga olingan. Ushbu film  janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122667,
+    "name": "Bayram mojarsi",
+    "original_name": "Bayram mojarsi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122667/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122667/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122667/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Melodramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Melodramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.8",
+    "imdb_rating": "6.9",
+    "quality": "Full HD",
+    "description": "Bayram mojarsi filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Melodramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122666,
+    "name": "Jang",
+    "original_name": "Jang",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122666/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122666/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122666/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, O'zbekcha, Sarguzashtlar, Jangari",
+    "genre_list": [
+      "Trillerlar",
+      "Sarguzashtlar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.5",
+    "quality": "4K Ultra HD",
+    "description": "Jang filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Sarguzashtlar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122665,
+    "name": "Pritxviradj",
+    "original_name": "Pritxviradj",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122665/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122665/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122665/pb_poster_big.jpeg",
+    "year": 2022,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, Dramalar, O'zbekcha, Jangari, Biografiyalar, Harbiylar",
+    "genre_list": [
+      "Tarixiy",
+      "Dramalar",
+      "Jangari",
+      "Biografiyalar",
+      "Harbiylar"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "5.6",
+    "quality": "Full HD",
+    "description": "Pritxviradj filmi 2022-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Dramalar, Jangari, Biografiyalar, Harbiylar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122664,
+    "name": "12 Rojdestvo itlari: Kuchuklar boshpanasini qutqarish",
+    "original_name": "12 Rojdestvo itlari: Kuchuklar boshpanasini qutqarish",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122664/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122664/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122664/pb_poster_big.jpeg",
+    "year": 2012,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Komediya, Sarguzashtlar, Oilavir",
+    "genre_list": [
+      "Komediya",
+      "Sarguzashtlar",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "6.2",
+    "imdb_rating": "5.1",
+    "quality": "Full HD",
+    "description": "12 Rojdestvo itlari: Kuchuklar boshpanasini qutqarish filmi 2012-yilda O'zbekistonda suratga olingan. Ushbu film Komediya, Sarguzashtlar, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122663,
+    "name": "12 Rojdestvo itlari",
+    "original_name": "12 Rojdestvo itlari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122663/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122663/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122663/pb_poster_big.jpeg",
+    "year": 2004,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Oilavir",
+    "genre_list": [
+      "Dramalar",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "6.2",
+    "imdb_rating": "5.4",
+    "quality": "4K Ultra HD",
+    "description": "12 Rojdestvo itlari filmi 2004-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122661,
+    "name": "Cho‘qintirgan ona",
+    "original_name": "Cho‘qintirgan ona",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122661/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122661/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122661/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya, Jinoiy",
+    "genre_list": [
+      "Dramalar",
+      "Komediya",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "7.1",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Cho‘qintirgan ona filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122660,
+    "name": "Tezlik 3",
+    "original_name": "Tezlik 3",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122660/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122660/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122660/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, Jangari, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Jangari",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "7.7",
+    "imdb_rating": "5.4",
+    "quality": "Full HD",
+    "description": "Tezlik 3 filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Jangari, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122658,
+    "name": "Mening yaratuvchim",
+    "original_name": "Mening yaratuvchim",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122658/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122658/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122658/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Fantastika, Dramalar, O'zbekcha",
+    "genre_list": [
+      "Fantastika",
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.4",
+    "quality": "4K Ultra HD",
+    "description": "Mening yaratuvchim filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Fantastika, Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122657,
+    "name": "Mariyadan Kallas",
+    "original_name": "Mariyadan Kallas",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122657/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122657/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122657/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Musiqa, Biografiyalar, Hujjatli",
+    "genre_list": [
+      "Musiqa",
+      "Biografiyalar",
+      "Hujjatli"
+    ],
+    "kinopoisk_rating": "8.2",
+    "imdb_rating": "7.2",
+    "quality": "Full HD",
+    "description": "Mariyadan Kallas filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Musiqa, Biografiyalar, Hujjatli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122656,
+    "name": "Margo",
+    "original_name": "Margo",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122656/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122656/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122656/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "6.1",
+    "imdb_rating": "5.4",
+    "quality": "Full HD",
+    "description": "Margo filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122655,
+    "name": "Madonna. Afsonaning tug‘ilishi",
+    "original_name": "Madonna. Afsonaning tug‘ilishi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122655/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122655/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122655/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Biografiyalar, Hujjatli",
+    "genre_list": [
+      "Biografiyalar",
+      "Hujjatli"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "6.5",
+    "quality": "4K Ultra HD",
+    "description": "Madonna. Afsonaning tug‘ilishi filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Biografiyalar, Hujjatli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122654,
+    "name": "Xavf ostida sevgi",
+    "original_name": "Xavf ostida sevgi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122654/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122654/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122654/pb_poster_big.jpeg",
+    "year": 2010,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Melodramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Melodramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.0",
+    "imdb_rating": "6.1",
+    "quality": "Full HD",
+    "description": "Xavf ostida sevgi filmi 2010-yilda O'zbekistonda suratga olingan. Ushbu film Melodramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122653,
+    "name": "Madam",
+    "original_name": "Madam",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122653/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122653/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122653/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Melodramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Melodramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.1",
+    "quality": "Full HD",
+    "description": "Madam filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Melodramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122651,
+    "name": "Misterium: Marko ta`siri",
+    "original_name": "Misterium: Marko ta`siri",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122651/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122651/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122651/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "5.4",
+    "quality": "4K Ultra HD",
+    "description": "Misterium: Marko ta`siri filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122649,
+    "name": "Qotillik",
+    "original_name": "Qotillik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122649/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122649/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122649/pb_poster_big.jpeg",
+    "year": 2015,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, Trillerlar, O'zbekcha, Jangari",
+    "genre_list": [
+      "Tarixiy",
+      "Trillerlar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "7.2",
+    "quality": "Full HD",
+    "description": "Qotillik filmi 2015-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Trillerlar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122647,
+    "name": "Uyga qaytish",
+    "original_name": "Uyga qaytish",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122647/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122647/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122647/pb_poster_big.jpeg",
+    "year": 2022,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, O'zbekcha, Jangari, Harbiylar",
+    "genre_list": [
+      "Tarixiy",
+      "Jangari",
+      "Harbiylar"
+    ],
+    "kinopoisk_rating": "6.4",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Uyga qaytish filmi 2022-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Jangari, Harbiylar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122646,
+    "name": "Ko‘z uchun ko‘z 2",
+    "original_name": "Ko‘z uchun ko‘z 2",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122646/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122646/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122646/pb_poster_big.jpeg",
+    "year": 2024,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Jangari",
+    "genre_list": [
+      "Dramalar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Ko‘z uchun ko‘z 2 filmi 2024-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122645,
+    "name": "Ko‘z uchun ko‘z",
+    "original_name": "Ko‘z uchun ko‘z",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122645/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122645/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122645/pb_poster_big.jpeg",
+    "year": 2022,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Jangari",
+    "genre_list": [
+      "Dramalar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.6",
+    "quality": "Full HD",
+    "description": "Ko‘z uchun ko‘z filmi 2022-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122644,
+    "name": "Achchiq va shirin",
+    "original_name": "Achchiq va shirin",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122644/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122644/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122644/pb_poster_big.jpeg",
+    "year": 2005,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "7.5",
+    "quality": "Full HD",
+    "description": "Achchiq va shirin filmi 2005-yilda O'zbekistonda suratga olingan. Ushbu film  janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122642,
+    "name": "Qo’shma shtatlar Billi Holidayga qarshi",
+    "original_name": "Qo’shma shtatlar Billi Holidayga qarshi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122642/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122642/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122642/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Musiqa, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Musiqa",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.3",
+    "quality": "4K Ultra HD",
+    "description": "Qo’shma shtatlar Billi Holidayga qarshi filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Musiqa, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122641,
+    "name": "Hayot uchun yuz kun",
+    "original_name": "Hayot uchun yuz kun",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122641/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122641/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122641/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "5.2",
+    "quality": "Full HD",
+    "description": "Hayot uchun yuz kun filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122640,
+    "name": "Malika Diana: Sevgi tarixi",
+    "original_name": "Malika Diana: Sevgi tarixi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122640/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122640/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122640/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Melodramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Melodramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "5.6",
+    "quality": "Full HD",
+    "description": "Malika Diana: Sevgi tarixi filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Melodramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122639,
+    "name": "Bank hodimlari",
+    "original_name": "Bank hodimlari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122639/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122639/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122639/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "5.8",
+    "imdb_rating": "6.5",
+    "quality": "4K Ultra HD",
+    "description": "Bank hodimlari filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122637,
+    "name": "9 oylik qat'iy tartib",
+    "original_name": "9 oylik qat'iy tartib",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122637/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122637/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122637/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Detektivlar, O'zbekcha, Komediya, Jinoiy",
+    "genre_list": [
+      "Detektivlar",
+      "Komediya",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.1",
+    "imdb_rating": "6.4",
+    "quality": "Full HD",
+    "description": "9 oylik qat'iy tartib filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Detektivlar, Komediya, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122635,
+    "name": "Maxluqning soxibjamoli",
+    "original_name": "Maxluqning soxibjamoli",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122635/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122635/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122635/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, Dramalar, Melodramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Tarixiy",
+      "Dramalar",
+      "Melodramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.4",
+    "quality": "Full HD",
+    "description": "Maxluqning soxibjamoli filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Dramalar, Melodramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122634,
+    "name": "Sohibjamol",
+    "original_name": "Sohibjamol",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122634/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122634/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122634/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "5.7",
+    "imdb_rating": "6.5",
+    "quality": "4K Ultra HD",
+    "description": "Sohibjamol filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122633,
+    "name": "Lukas",
+    "original_name": "Lukas",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122633/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122633/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122633/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, Jangari",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.0",
+    "imdb_rating": "5.9",
+    "quality": "Full HD",
+    "description": "Lukas filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122632,
+    "name": "Janob olimpiya",
+    "original_name": "Janob olimpiya",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122632/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122632/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122632/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Sport, Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Sport",
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.1",
+    "imdb_rating": "6.4",
+    "quality": "Full HD",
+    "description": "Janob olimpiya filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Sport, Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122631,
+    "name": "Shaolin",
+    "original_name": "Shaolin",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122631/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122631/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122631/pb_poster_big.jpeg",
+    "year": 2011,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Jangari",
+    "genre_list": [
+      "Dramalar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "6.8",
+    "quality": "4K Ultra HD",
+    "description": "Shaolin filmi 2011-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122630,
+    "name": "Rassom va o‘g‘ri",
+    "original_name": "Rassom va o‘g‘ri",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122630/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122630/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122630/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Hujjatli",
+    "genre_list": [
+      "Hujjatli"
+    ],
+    "kinopoisk_rating": "7.1",
+    "imdb_rating": "7.5",
+    "quality": "Full HD",
+    "description": "Rassom va o‘g‘ri filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Hujjatli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122629,
+    "name": "Kevin bilan nimadir noto‘g‘ri",
+    "original_name": "Kevin bilan nimadir noto‘g‘ri",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122629/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122629/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122629/pb_poster_big.jpeg",
+    "year": 2010,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar"
+    ],
+    "kinopoisk_rating": "7.1",
+    "imdb_rating": "7.4",
+    "quality": "Full HD",
+    "description": "Kevin bilan nimadir noto‘g‘ri filmi 2010-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122627,
+    "name": "Sichqinlar ham Jannatga tushadilar",
+    "original_name": "Sichqinlar ham Jannatga tushadilar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122627/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122627/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122627/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.8",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Sichqinlar ham Jannatga tushadilar filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film  janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122626,
+    "name": "Dengiz qo`shig`i",
+    "original_name": "Dengiz qo`shig`i",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122626/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122626/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122626/pb_poster_big.jpeg",
+    "year": 2014,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha",
+    "genre_list": [
+      "Drama",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "8.2",
+    "imdb_rating": "8.0",
+    "quality": "Full HD",
+    "description": "Dengiz qo`shig`i filmi 2014-yilda O'zbekistonda suratga olingan. Ushbu film  janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122625,
+    "name": "Jimi Xedriks",
+    "original_name": "Jimi Xedriks",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122625/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122625/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122625/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Musiqa, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Musiqa",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "6.0",
+    "imdb_rating": "5.7",
+    "quality": "Full HD",
+    "description": "Jimi Xedriks filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Musiqa, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122624,
+    "name": "Rok-n-rol qiroli",
+    "original_name": "Rok-n-rol qiroli",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122624/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122624/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122624/pb_poster_big.jpeg",
+    "year": 2014,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Musiqa",
+    "genre_list": [
+      "Dramalar",
+      "Musiqa"
+    ],
+    "kinopoisk_rating": "6.4",
+    "imdb_rating": "5.3",
+    "quality": "4K Ultra HD",
+    "description": "Rok-n-rol qiroli filmi 2014-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Musiqa janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122622,
+    "name": "Nazorat illuziyasi",
+    "original_name": "Nazorat illuziyasi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122622/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122622/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122622/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar"
+    ],
+    "kinopoisk_rating": "7.0",
+    "imdb_rating": "6.4",
+    "quality": "Full HD",
+    "description": "Nazorat illuziyasi filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122620,
+    "name": "O’grlikdagi muhabbat",
+    "original_name": "O’grlikdagi muhabbat",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122620/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122620/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122620/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.1",
+    "imdb_rating": "5.6",
+    "quality": "Full HD",
+    "description": "O’grlikdagi muhabbat filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122615,
+    "name": "Qaerdadir vaqtlar aro",
+    "original_name": "Qaerdadir vaqtlar aro",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122615/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122615/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122615/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Fantastika, Melodramalar, Detektivlar, O'zbekcha",
+    "genre_list": [
+      "Fantastika",
+      "Melodramalar",
+      "Detektivlar"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.3",
+    "quality": "4K Ultra HD",
+    "description": "Qaerdadir vaqtlar aro filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Fantastika, Melodramalar, Detektivlar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122614,
+    "name": "Bell va Sebastian-Bir umrlik do'stlar",
+    "original_name": "Bell va Sebastian-Bir umrlik do'stlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122614/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122614/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122614/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Sarguzashtlar, Oilavir",
+    "genre_list": [
+      "Sarguzashtlar",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Bell va Sebastian-Bir umrlik do'stlar filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Sarguzashtlar, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122613,
+    "name": "Fakirning sarguzashtlari",
+    "original_name": "Fakirning sarguzashtlari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122613/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122613/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122613/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Komediya, Sarguzashtlar",
+    "genre_list": [
+      "Komediya",
+      "Sarguzashtlar"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Fakirning sarguzashtlari filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Komediya, Sarguzashtlar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122612,
+    "name": "Har doim",
+    "original_name": "Har doim",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122612/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122612/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122612/pb_poster_big.jpeg",
+    "year": 2011,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Melodramalar, O'zbekcha, Jangari",
+    "genre_list": [
+      "Dramalar",
+      "Melodramalar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "8.2",
+    "imdb_rating": "7.7",
+    "quality": "4K Ultra HD",
+    "description": "Har doim filmi 2011-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Melodramalar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122611,
+    "name": "Kichkina malika",
+    "original_name": "Kichkina malika",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122611/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122611/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122611/pb_poster_big.jpeg",
+    "year": 2022,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya, Oilavir",
+    "genre_list": [
+      "Dramalar",
+      "Komediya",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "7.5",
+    "imdb_rating": "7.5",
+    "quality": "Full HD",
+    "description": "Kichkina malika filmi 2022-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122610,
+    "name": "Qo’shma shtatlar Billi Holidayga qarshi",
+    "original_name": "Qo’shma shtatlar Billi Holidayga qarshi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122610/pb_poster_big.jpg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122610/ps_poster_small.jpg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122610/pb_poster_big.jpg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Musiqa, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Musiqa",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Qo’shma shtatlar Billi Holidayga qarshi filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Musiqa, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122609,
+    "name": "Men, yana men, va oyim",
+    "original_name": "Men, yana men, va oyim",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122609/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122609/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122609/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Melodramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Melodramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Men, yana men, va oyim filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Melodramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122608,
+    "name": "Gunohkorlar shahri",
+    "original_name": "Gunohkorlar shahri",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122608/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122608/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122608/pb_poster_big.jpeg",
+    "year": 2022,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Detektivlar, O'zbekcha, Jangari, Jinoiy",
+    "genre_list": [
+      "Detektivlar",
+      "Jangari",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.1",
+    "imdb_rating": "5.9",
+    "quality": "Full HD",
+    "description": "Gunohkorlar shahri filmi 2022-yilda O'zbekistonda suratga olingan. Ushbu film Detektivlar, Jangari, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122607,
+    "name": "Borg - Makenroyga qarshi",
+    "original_name": "Borg - Makenroyga qarshi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122607/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122607/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122607/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Sport, Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Sport",
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "6.9",
+    "quality": "Full HD",
+    "description": "Borg - Makenroyga qarshi filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Sport, Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122606,
+    "name": "Qisqasini aytganda",
+    "original_name": "Qisqasini aytganda",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122606/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122606/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122606/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Melodramalar, O'zbekcha, Komediya, Fantastik",
+    "genre_list": [
+      "Melodramalar",
+      "Komediya",
+      "Fantastik"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Qisqasini aytganda filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Melodramalar, Komediya, Fantastik janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122604,
+    "name": "Bir kuni kinoda...",
+    "original_name": "Bir kuni kinoda...",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122604/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122604/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122604/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "7.4",
+    "quality": "Full HD",
+    "description": "Bir kuni kinoda... filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122602,
+    "name": "Erkak va ayol: Ajoyib yillar",
+    "original_name": "Erkak va ayol: Ajoyib yillar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122602/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122602/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122602/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Erkak va ayol: Ajoyib yillar filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122601,
+    "name": "Mangu imperiya",
+    "original_name": "Mangu imperiya",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122601/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122601/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122601/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha, Jinoiy, Biografiyalar, Harbiylar",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar",
+      "Jinoiy",
+      "Biografiyalar",
+      "Harbiylar"
+    ],
+    "kinopoisk_rating": "6.4",
+    "imdb_rating": "6.5",
+    "quality": "4K Ultra HD",
+    "description": "Mangu imperiya filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar, Jinoiy, Biografiyalar, Harbiylar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122600,
+    "name": "Ta`tildagi sarguzashtlar",
+    "original_name": "Ta`tildagi sarguzashtlar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122600/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122600/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122600/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Komediya",
+    "genre_list": [
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "5.3",
+    "quality": "Full HD",
+    "description": "Ta`tildagi sarguzashtlar filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122599,
+    "name": "Ajoyib Missis Mey",
+    "original_name": "Ajoyib Missis Mey",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122599/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122599/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122599/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Ajoyib Missis Mey filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122598,
+    "name": "Logan omadi",
+    "original_name": "Logan omadi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122598/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122598/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122598/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Komediya, Jinoiy",
+    "genre_list": [
+      "Komediya",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.8",
+    "imdb_rating": "7.0",
+    "quality": "4K Ultra HD",
+    "description": "Logan omadi filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Komediya, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122597,
+    "name": "Buralgan uycha",
+    "original_name": "Buralgan uycha",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122597/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122597/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122597/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.8",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Buralgan uycha filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122596,
+    "name": "Qamaldagi politsiya hikoyasi",
+    "original_name": "Qamaldagi politsiya hikoyasi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122596/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122596/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122596/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, Jangari, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Jangari",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.4",
+    "imdb_rating": "5.9",
+    "quality": "Full HD",
+    "description": "Qamaldagi politsiya hikoyasi filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Jangari, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122595,
+    "name": "Tunel Hayot uchun havfli",
+    "original_name": "Tunel Hayot uchun havfli",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122595/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122595/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122595/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, Jangari",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.0",
+    "quality": "4K Ultra HD",
+    "description": "Tunel Hayot uchun havfli filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122591,
+    "name": "Asoschi",
+    "original_name": "Asoschi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122591/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122591/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122591/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "7.2",
+    "quality": "Full HD",
+    "description": "Asoschi filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122590,
+    "name": "Yer uchun jang",
+    "original_name": "Yer uchun jang",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122590/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122590/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122590/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Fantastika, Trillerlar, O'zbekcha, Jangari, Dahshatli",
+    "genre_list": [
+      "Fantastika",
+      "Trillerlar",
+      "Jangari",
+      "Dahshatli"
+    ],
+    "kinopoisk_rating": "5.8",
+    "imdb_rating": "6.0",
+    "quality": "Full HD",
+    "description": "Yer uchun jang filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Fantastika, Trillerlar, Jangari, Dahshatli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122588,
+    "name": "Sharq shamoli: Buyuk bo'ron",
+    "original_name": "Sharq shamoli: Buyuk bo'ron",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122588/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122588/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122588/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Sarguzashtlar, Oilavir",
+    "genre_list": [
+      "Sarguzashtlar",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "5.8",
+    "quality": "4K Ultra HD",
+    "description": "Sharq shamoli: Buyuk bo'ron filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Sarguzashtlar, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122586,
+    "name": "Ko'rinmas dunyo",
+    "original_name": "Ko'rinmas dunyo",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122586/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122586/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122586/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "6.5",
+    "imdb_rating": "7.3",
+    "quality": "Full HD",
+    "description": "Ko'rinmas dunyo filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122585,
+    "name": "Endi qor yog'maydi",
+    "original_name": "Endi qor yog'maydi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122585/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122585/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122585/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, Detektivlar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Detektivlar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.1",
+    "imdb_rating": "6.4",
+    "quality": "Full HD",
+    "description": "Endi qor yog'maydi filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Detektivlar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122584,
+    "name": "Oilaviy biznes",
+    "original_name": "Oilaviy biznes",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122584/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122584/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122584/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "16+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, G'arbliklar",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "G'arbliklar"
+    ],
+    "kinopoisk_rating": "6.4",
+    "imdb_rating": "5.6",
+    "quality": "4K Ultra HD",
+    "description": "Oilaviy biznes filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, G'arbliklar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122582,
+    "name": "Hech kimga aytma",
+    "original_name": "Hech kimga aytma",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122582/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122582/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122582/pb_poster_big.jpeg",
+    "year": 2022,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "5.8",
+    "imdb_rating": "6.6",
+    "quality": "Full HD",
+    "description": "Hech kimga aytma filmi 2022-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122580,
+    "name": "Xonavayron boyvachchalar",
+    "original_name": "Xonavayron boyvachchalar",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122580/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122580/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122580/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Komediya",
+    "genre_list": [
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.1",
+    "imdb_rating": "6.1",
+    "quality": "Full HD",
+    "description": "Xonavayron boyvachchalar filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122579,
+    "name": "Sher",
+    "original_name": "Sher",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122579/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122579/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122579/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "8.1",
+    "imdb_rating": "8.0",
+    "quality": "4K Ultra HD",
+    "description": "Sher filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122578,
+    "name": "Yana bir qadah",
+    "original_name": "Yana bir qadah",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122578/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122578/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122578/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "7.7",
+    "quality": "Full HD",
+    "description": "Yana bir qadah filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122577,
+    "name": "Ximoyachi",
+    "original_name": "Ximoyachi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122577/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122577/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122577/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.2",
+    "quality": "Full HD",
+    "description": "Ximoyachi filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122576,
+    "name": "Shamol ortidan quvib",
+    "original_name": "Shamol ortidan quvib",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122576/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122576/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122576/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Sport, Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Sport",
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.8",
+    "imdb_rating": "7.0",
+    "quality": "4K Ultra HD",
+    "description": "Shamol ortidan quvib filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Sport, Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122575,
+    "name": "Uzoq qulash",
+    "original_name": "Uzoq qulash",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122575/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122575/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122575/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Uzoq qulash filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122571,
+    "name": "Adolat ritsarlari",
+    "original_name": "Adolat ritsarlari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122571/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122571/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122571/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya, Jangari, Jinoiy",
+    "genre_list": [
+      "Dramalar",
+      "Komediya",
+      "Jangari",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "7.5",
+    "quality": "Full HD",
+    "description": "Adolat ritsarlari filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya, Jangari, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122570,
+    "name": "Sarobdagi qiz",
+    "original_name": "Sarobdagi qiz",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122570/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122570/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122570/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.1",
+    "quality": "4K Ultra HD",
+    "description": "Sarobdagi qiz filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122569,
+    "name": "Rameo va Julietta",
+    "original_name": "Rameo va Julietta",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122569/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122569/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122569/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Musiyqiy",
+    "genre_list": [
+      "Dramalar",
+      "Musiyqiy"
+    ],
+    "kinopoisk_rating": "7.0",
+    "imdb_rating": "6.8",
+    "quality": "Full HD",
+    "description": "Rameo va Julietta filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Musiyqiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122567,
+    "name": "Matritsadagi nosozlik",
+    "original_name": "Matritsadagi nosozlik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122567/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122567/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122567/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Hujjatli",
+    "genre_list": [
+      "Hujjatli"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "5.3",
+    "quality": "Full HD",
+    "description": "Matritsadagi nosozlik filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Hujjatli janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122566,
+    "name": "Eng shafqatsiz yil",
+    "original_name": "Eng shafqatsiz yil",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122566/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122566/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122566/pb_poster_big.jpeg",
+    "year": 2014,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.6",
+    "imdb_rating": "6.9",
+    "quality": "4K Ultra HD",
+    "description": "Eng shafqatsiz yil filmi 2014-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122565,
+    "name": "Soyalar ritsari",
+    "original_name": "Soyalar ritsari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122565/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122565/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122565/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Komediya, Jangari, Fantastik",
+    "genre_list": [
+      "Komediya",
+      "Jangari",
+      "Fantastik"
+    ],
+    "kinopoisk_rating": "6.0",
+    "imdb_rating": "5.0",
+    "quality": "Full HD",
+    "description": "Soyalar ritsari filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Komediya, Jangari, Fantastik janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122564,
+    "name": "Men qo‘rqmayman",
+    "original_name": "Men qo‘rqmayman",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122564/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122564/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122564/pb_poster_big.jpeg",
+    "year": 2003,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "7.4",
+    "quality": "Full HD",
+    "description": "Men qo‘rqmayman filmi 2003-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122563,
+    "name": "Men shaytonni ko‘rdim",
+    "original_name": "Men shaytonni ko‘rdim",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122563/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122563/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122563/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, O'zbekcha, Jangari, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Jangari",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "7.6",
+    "imdb_rating": "7.8",
+    "quality": "4K Ultra HD",
+    "description": "Men shaytonni ko‘rdim filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Jangari, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122562,
+    "name": "Kapitan Fantastik",
+    "original_name": "Kapitan Fantastik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122562/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122562/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122562/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha",
+    "genre_list": [
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "7.7",
+    "imdb_rating": "7.8",
+    "quality": "Full HD",
+    "description": "Kapitan Fantastik filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122560,
+    "name": "Amerikalik pastoral",
+    "original_name": "Amerikalik pastoral",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122560/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122560/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122560/pb_poster_big.jpeg",
+    "year": 2016,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Melodramalar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Melodramalar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "6.1",
+    "quality": "Full HD",
+    "description": "Amerikalik pastoral filmi 2016-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Melodramalar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122559,
+    "name": "Bell va Sebastian - Sarguzasht davom etadi...",
+    "original_name": "Bell va Sebastian - Sarguzasht davom etadi...",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122559/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122559/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122559/pb_poster_big.jpeg",
+    "year": 2015,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Sarguzashtlar, Oilavir",
+    "genre_list": [
+      "Sarguzashtlar",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "8.0",
+    "imdb_rating": "6.6",
+    "quality": "4K Ultra HD",
+    "description": "Bell va Sebastian - Sarguzasht davom etadi... filmi 2015-yilda O'zbekistonda suratga olingan. Ushbu film Sarguzashtlar, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122558,
+    "name": "Qatiyat",
+    "original_name": "Qatiyat",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122558/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122558/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122558/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Musiqa",
+    "genre_list": [
+      "Dramalar",
+      "Musiqa"
+    ],
+    "kinopoisk_rating": "8.4",
+    "imdb_rating": "8.5",
+    "quality": "Full HD",
+    "description": "Qatiyat filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Musiqa janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122557,
+    "name": "Kulbola Espen: Tog‘ qiroli qasrida",
+    "original_name": "Kulbola Espen: Tog‘ qiroli qasrida",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122557/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122557/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122557/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Sarguzashtlar, Oilavir",
+    "genre_list": [
+      "Sarguzashtlar",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "6.2",
+    "quality": "Full HD",
+    "description": "Kulbola Espen: Tog‘ qiroli qasrida filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Sarguzashtlar, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122556,
+    "name": "Bell va Sebastian",
+    "original_name": "Bell va Sebastian",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122556/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122556/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122556/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Sarguzashtlar, Oilavir",
+    "genre_list": [
+      "Dramalar",
+      "Sarguzashtlar",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "7.9",
+    "imdb_rating": "6.9",
+    "quality": "4K Ultra HD",
+    "description": "Bell va Sebastian filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Sarguzashtlar, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122555,
+    "name": "Avgust: Oseyj hududi",
+    "original_name": "Avgust: Oseyj hududi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122555/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122555/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122555/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya",
+    "genre_list": [
+      "Dramalar",
+      "Komediya"
+    ],
+    "kinopoisk_rating": "7.4",
+    "imdb_rating": "7.2",
+    "quality": "Full HD",
+    "description": "Avgust: Oseyj hududi filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122554,
+    "name": "Gagarin. Birinchi kosmosda",
+    "original_name": "Gagarin. Birinchi kosmosda",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122554/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122554/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122554/pb_poster_big.jpeg",
+    "year": 2013,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Tarixiy",
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.0",
+    "imdb_rating": "6.5",
+    "quality": "Full HD",
+    "description": "Gagarin. Birinchi kosmosda filmi 2013-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122553,
+    "name": "Ma'bud aslaxalari 3 Burj operatsiyasi",
+    "original_name": "Ma'bud aslaxalari 3 Burj operatsiyasi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122553/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122553/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122553/pb_poster_big.jpeg",
+    "year": 2012,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Komediya, Sarguzashtlar, Jangari",
+    "genre_list": [
+      "Komediya",
+      "Sarguzashtlar",
+      "Jangari"
+    ],
+    "kinopoisk_rating": "6.5",
+    "imdb_rating": "6.0",
+    "quality": "4K Ultra HD",
+    "description": "Ma'bud aslaxalari 3 Burj operatsiyasi filmi 2012-yilda O'zbekistonda suratga olingan. Ushbu film Komediya, Sarguzashtlar, Jangari janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122552,
+    "name": "Cho`qqida: Ozodlik qofiyasi",
+    "original_name": "Cho`qqida: Ozodlik qofiyasi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122552/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122552/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122552/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Musiqa, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Musiqa",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "6.5",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Cho`qqida: Ozodlik qofiyasi filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Musiqa, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122551,
+    "name": "Defolt",
+    "original_name": "Defolt",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122551/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122551/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122551/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, Dramalar, O'zbekcha",
+    "genre_list": [
+      "Tarixiy",
+      "Dramalar"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Defolt filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Dramalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122550,
+    "name": "Qat'iy g'arb tomonga",
+    "original_name": "Qat'iy g'arb tomonga",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122550/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122550/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122550/pb_poster_big.jpeg",
+    "year": 2015,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, G'arbliklar",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "G'arbliklar"
+    ],
+    "kinopoisk_rating": "6.7",
+    "imdb_rating": "6.9",
+    "quality": "4K Ultra HD",
+    "description": "Qat'iy g'arb tomonga filmi 2015-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, G'arbliklar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122549,
+    "name": "Rojdestvo uchun sehrli ertak",
+    "original_name": "Rojdestvo uchun sehrli ertak",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122549/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122549/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122549/pb_poster_big.jpeg",
+    "year": 2021,
+    "rating": "12+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Komediya, Oilavir",
+    "genre_list": [
+      "Dramalar",
+      "Komediya",
+      "Oilavir"
+    ],
+    "kinopoisk_rating": "7.2",
+    "imdb_rating": "6.3",
+    "quality": "Full HD",
+    "description": "Rojdestvo uchun sehrli ertak filmi 2021-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Komediya, Oilavir janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122547,
+    "name": "Qirollik",
+    "original_name": "Qirollik",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122547/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122547/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122547/pb_poster_big.jpeg",
+    "year": 2019,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Jangari, Harbiylar",
+    "genre_list": [
+      "Dramalar",
+      "Jangari",
+      "Harbiylar"
+    ],
+    "kinopoisk_rating": "6.9",
+    "imdb_rating": "6.7",
+    "quality": "Full HD",
+    "description": "Qirollik filmi 2019-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Jangari, Harbiylar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122546,
+    "name": "Ochiq xatlar qotilliklari",
+    "original_name": "Ochiq xatlar qotilliklari",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122546/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122546/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122546/pb_poster_big.jpeg",
+    "year": 2020,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, Detektivlar, O'zbekcha, Jinoiy",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Detektivlar",
+      "Jinoiy"
+    ],
+    "kinopoisk_rating": "6.3",
+    "imdb_rating": "5.8",
+    "quality": "4K Ultra HD",
+    "description": "Ochiq xatlar qotilliklari filmi 2020-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Detektivlar, Jinoiy janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122545,
+    "name": "Kod qizil",
+    "original_name": "Kod qizil",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122545/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122545/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122545/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Tarixiy, Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Tarixiy",
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.3",
+    "imdb_rating": "6.4",
+    "quality": "Full HD",
+    "description": "Kod qizil filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Tarixiy, Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122544,
+    "name": "Katta o’yin",
+    "original_name": "Katta o’yin",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122544/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122544/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122544/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Jinoiy, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Jinoiy",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.8",
+    "imdb_rating": "7.4",
+    "quality": "Full HD",
+    "description": "Katta o’yin filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Jinoiy, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122542,
+    "name": "Tugmacha Jim va mashinist Lukas",
+    "original_name": "Tugmacha Jim va mashinist Lukas",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122542/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122542/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122542/pb_poster_big.jpeg",
+    "year": 2018,
+    "rating": "6+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "O'zbekcha, Sarguzashtlar, Jangari, Oilavir, Fantastik",
+    "genre_list": [
+      "Sarguzashtlar",
+      "Jangari",
+      "Oilavir",
+      "Fantastik"
+    ],
+    "kinopoisk_rating": "6.8",
+    "imdb_rating": "6.3",
+    "quality": "4K Ultra HD",
+    "description": "Tugmacha Jim va mashinist Lukas filmi 2018-yilda O'zbekistonda suratga olingan. Ushbu film Sarguzashtlar, Jangari, Oilavir, Fantastik janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122541,
+    "name": "Milliarderlar klubi",
+    "original_name": "Milliarderlar klubi",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122541/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122541/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122541/pb_poster_big.jpeg",
+    "year": 2017,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Trillerlar, Dramalar, O'zbekcha, Biografiyalar",
+    "genre_list": [
+      "Trillerlar",
+      "Dramalar",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "6.0",
+    "imdb_rating": "5.6",
+    "quality": "Full HD",
+    "description": "Milliarderlar klubi filmi 2017-yilda O'zbekistonda suratga olingan. Ushbu film Trillerlar, Dramalar, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  },
+  {
+    "id": 122540,
+    "name": "Dunyodagi eng sarhusht hudud",
+    "original_name": "Dunyodagi eng sarhusht hudud",
+    "poster": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122540/pb_poster_big.jpeg",
+    "poster_small": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122540/ps_poster_small.jpeg",
+    "backdrop": "https://mw.tvcom.uz/media/upload/tvmiddleware/posters/122540/pb_poster_big.jpeg",
+    "year": 2012,
+    "rating": "18+",
+    "duration": 110,
+    "duration_str": "1 soat 50 daqiqa",
+    "countries": "O'zbekiston",
+    "genres": "Dramalar, O'zbekcha, Jinoiy, Biografiyalar",
+    "genre_list": [
+      "Dramalar",
+      "Jinoiy",
+      "Biografiyalar"
+    ],
+    "kinopoisk_rating": "7.5",
+    "imdb_rating": "7.2",
+    "quality": "Full HD",
+    "description": "Dunyodagi eng sarhusht hudud filmi 2012-yilda O'zbekistonda suratga olingan. Ushbu film Dramalar, Jinoiy, Biografiyalar janrida bo'lib, tomoshabinlarga unutilmas taassurotlar ulashadi. Film o'zbek tilida professional dublyaj qilingan bo'lib, yuqori sifatli Full HD formatda taqdim etiladi.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "audio_tracks": [
+      "O'zbekcha (Professional)",
+      "Original"
+    ],
+    "subtitles": [
+      "O'zbekcha",
+      "Ruscha"
+    ]
+  }
+];
